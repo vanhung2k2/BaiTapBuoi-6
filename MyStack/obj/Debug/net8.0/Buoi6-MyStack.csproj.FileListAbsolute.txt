@@ -1,0 +1,14 @@
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net8.0\Buoi6-MyStack.exe
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net8.0\Buoi6-MyStack.deps.json
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net8.0\Buoi6-MyStack.runtimeconfig.json
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net8.0\Buoi6-MyStack.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\bin\Debug\net8.0\Buoi6-MyStack.pdb
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.AssemblyInfoInputs.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.AssemblyInfo.cs
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.csproj.CoreCompileInputs.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\refint\Buoi6-MyStack.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.pdb
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\Buoi6-MyStack.genruntimeconfig.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\MyStack\obj\Debug\net8.0\ref\Buoi6-MyStack.dll

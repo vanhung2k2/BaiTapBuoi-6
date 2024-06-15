@@ -1,0 +1,14 @@
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net8.0\Bai2.exe
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net8.0\Bai2.deps.json
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net8.0\Bai2.runtimeconfig.json
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net8.0\Bai2.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\bin\Debug\net8.0\Bai2.pdb
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.AssemblyInfoInputs.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.AssemblyInfo.cs
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\refint\Bai2.dll
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.pdb
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\Bai2.genruntimeconfig.cache
+C:\Users\GearNB Shop PC\source\repos\BaiTapBuoi-6\Bai1\obj\Debug\net8.0\ref\Bai2.dll

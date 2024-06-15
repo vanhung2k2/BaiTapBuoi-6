@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7B9D9-3998-4DF9-B292-75B0B478C106}|MyStack\\MyStack.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitapbuoi-6\\mystack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7B9D9-3998-4DF9-B292-75B0B478C106}|MyStack\\MyStack.csproj|solutionrelative:mystack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18C7B9D9-3998-4DF9-B292-75B0B478C106}|MyStack\\MyStack.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitapbuoi-6\\mystack\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18C7B9D9-3998-4DF9-B292-75B0B478C106}|MyStack\\MyStack.csproj|solutionrelative:mystack\\stack1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Bai1.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitapbuoi-6\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Bai2.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitapbuoi-6\\bai1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Bai2.csproj|solutionrelative:bai1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Buoi6-Bai2.csproj|c:\\users\\gearnb shop pc\\source\\repos\\baitapbuoi-6\\bai1\\buoi6-bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{770CDBBB-5AE6-466A-ACC8-E26C52C53359}|Bai1\\Buoi6-Bai2.csproj|solutionrelative:bai1\\buoi6-bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack1.cs",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\MyStack\\Stack1.cs",
+              "RelativeDocumentMoniker": "MyStack\\Stack1.cs",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\MyStack\\Stack1.cs",
+              "RelativeToolTip": "MyStack\\Stack1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:21:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\MyStack\\Program.cs",
+              "RelativeDocumentMoniker": "MyStack\\Program.cs",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\MyStack\\Program.cs",
+              "RelativeToolTip": "MyStack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:21:10.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Student.cs",
+              "RelativeDocumentMoniker": "Bai1\\Student.cs",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Student.cs",
+              "RelativeToolTip": "Bai1\\Student.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAwwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:42:05.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Buoi6-Bai2.csproj",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Buoi6-Bai2.csproj",
+              "RelativeDocumentMoniker": "Bai1\\Buoi6-Bai2.csproj",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Buoi6-Bai2.csproj",
+              "RelativeToolTip": "Bai1\\Buoi6-Bai2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T05:41:29.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1\\Program.cs",
+              "ToolTip": "C:\\Users\\GearNB Shop PC\\source\\repos\\BaiTapBuoi-6\\Bai1\\Program.cs",
+              "RelativeToolTip": "Bai1\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:41:07.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
